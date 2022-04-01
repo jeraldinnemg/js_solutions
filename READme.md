@@ -7,4 +7,4 @@
 - [.sort()](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 - [.toUpperCase()](https://www.w3schools.com/jsref/jsref_touppercase.asp)
 
-### Practice, practice and practice! That's the key
+#### Practice, practice and practice! That's the key
